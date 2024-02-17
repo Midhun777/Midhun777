@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working/learning Web Development<br>🧿 Ask me about Nothing<br>🪝 That's all 
+🔭 I'm currently working/learning Web Development<br> Ask me about Nothing<br> That's all 
 
 
 ## 🌐 Socials:
