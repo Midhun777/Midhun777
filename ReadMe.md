@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about HTMl,CSS.Javascript<br>
+👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about HTML,CSS,Javascript<br>
 
 
 ## 🌐 Socials:
